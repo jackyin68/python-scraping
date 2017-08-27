@@ -1,3 +1,3 @@
 # python-scraping
 
-![](https://github.com/lbias/python-scraping/blob/master/9_regular_expressions/9_regular_expressions.png)
+![](https://github.com/lbias/python-scraping/blob/master/8_find_parents/8_find_parents.png)
