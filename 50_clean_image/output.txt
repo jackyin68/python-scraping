@@ -1,0 +1,3 @@
+This Is some text, written In Arlal, that win be read by
+Tesseract Here are some symbols: !@#$%"&'()
+
